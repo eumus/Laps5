@@ -1,0 +1,8 @@
+<resources>
+	<properties>
+		<property id="topBottomFont" type="number">6</property>
+		<property id="rowFont" type="number">2</property>
+		<property id="paddingTop" type="number">8</property>
+		<property id="paddingBottom" type="number">13</property>
+	</properties>
+</resources>

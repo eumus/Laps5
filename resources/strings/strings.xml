@@ -1,3 +1,16 @@
 <strings>
-    <string id="AppName">Laps5</string>
+    <string id="appName">Laps5</string>
+    
+    <string id="column4Title">Last column</string>
+    <string id="lastHR">HR at the end of the lap</string>
+    <string id="maxHR">Lap maximum HR</string>
+    <string id="avgHR">Lap average HR</string>
+    <string id="maxCad">Lap maximum cadence</string>
+    <string id="avgCad">Lap average cadence</string>
+    <string id="lapDist">Lap distance (m)</string>
+    
+    <string id="bottomFieldTitle">Bottom field</string>
+    <string id="curHR">Current HR</string>
+    <string id="curCad">Current cadence</string>
+    <string id="curDist">Current lap distance (m)</string>
 </strings>
